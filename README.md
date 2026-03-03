@@ -188,7 +188,6 @@ Executive Summary
 Funnel & Drop-offs
 Segment Explorer
 Experiment Deep Dive
-30-Day Impact & Rollout Strategy
 
 
 Z-Test for Proportions
